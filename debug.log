@@ -1,0 +1,3 @@
+[0209/075937.254:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0209/075937.270:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0209/075937.270:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
